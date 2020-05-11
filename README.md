@@ -50,14 +50,13 @@ O-Seok is awesome !!!!! lol :)
 bunnycast is awesome gopher. and also oggd at python.
 
 - blog : https://bunnycast.github.io/
->>>>>>> 747cac02dc9b1dd20d262078a20cbf2ef9a5d2bb
+ 747cac02dc9b1dd20d262078a20cbf2ef9a5d2bb
 
 ## comingsoon
 
 ### hyeongsun
 
 https://comingsoon941019.github.io/
-<<<<<<< HEAD
- a581f8e9ad53653b0c58594141097a07363d4cb7
-=======
+ HEAD
+ a581f8e9ad53653b0c58594141097a07363d4cb
 >>>>>>> 747cac02dc9b1dd20d262078a20cbf2ef9a5d2bb
