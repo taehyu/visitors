@@ -1,5 +1,6 @@
-
+# mina
 # visitors
+sanghee
 
 
 ## Index
@@ -13,6 +14,7 @@
 - hyeongsun
 - jamie Cheon
 - bunnycast
+- juheoung
 
 ### EK
 hello
@@ -42,13 +44,7 @@ https://comingsoon941019.github.io/
 
 im joy!!
 im python developer~~!!
-# visitor
-
-## Index
-<<<<<<< HEAD
--juheoung
 
 ### juheoung
-`
 -blog : https://juheoung.github.io/
 
