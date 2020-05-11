@@ -1,6 +1,12 @@
 
 # visitors
 
+## Hello I'm JOY
+
+im joy!!
+im python developer~~!!
+# visitor
+
 ## Index
 
 - O-Seok
