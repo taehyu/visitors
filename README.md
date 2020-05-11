@@ -1,6 +1,7 @@
 
 # visitors
 
+
 ## Index
 - O-Seok
 - hyeongsun
@@ -35,4 +36,19 @@ bunnycast is awesome gopher. and also oggd at python.
 
 ### hyeongsun
 https://comingsoon941019.github.io/
+
+=======
+## Hello I'm JOY
+
+im joy!!
+im python developer~~!!
+# visitor
+
+## Index
+<<<<<<< HEAD
+-juheoung
+
+### juheoung
+`
+-blog : https://juheoung.github.io/
 
