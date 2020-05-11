@@ -1,18 +1,10 @@
 
 # visitors
 
-Ko eun kyung
-
-
-# visitor
-
 ## Index
+<<<<<<< HEAD
 -juheoung
 
 ### juheoung
 `
 -blog : https://juheoung.github.io/
-
-
-
-
