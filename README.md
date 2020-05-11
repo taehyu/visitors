@@ -8,7 +8,6 @@ im python developer~~!!
 # visitor
 
 ## Index
-<<<<<<< HEAD
 - O-Seok
 - hyeongsun
 
