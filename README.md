@@ -1,6 +1,42 @@
 # mina
 # visitors
-sanghee
+
+## Index
+- O-Seok
+- hyeongsun
+- Ko eun kyung
+- hsw0905
+- EK
+- jamie Cheon
+- O-Seok
+- hyeongsun
+- jamie Cheon
+- bunnycast
+- juheoung
+- sanghee
+- taehyu
+### EK
+hello
+### O-Seok
+O-Seok is awesome !!!!! lol :)
+- blog: https://O-Seok.github.io
+
+
+### hsw0905
+Hello World from hsw0905 to README
+https://hsw0905.github.io/
+
+### O-Seok
+O-Seok is awesome !!!!! lol :)
+- blog: https://O-Seok.github.io
+
+### bunnycast
+bunnycast is awesome gopher. and also oggd at python.
+- blog : https://bunnycast.github.io/
+### JamieC
+
+### hyeongsun
+https://comingsoon941019.github.io/
 
  HEAD
 ## I don't know your name.
@@ -26,40 +62,22 @@ https://comingsoon941019.github.io/
 ##My blog
 [클릭](https://sensewan.github.io/)
 
-## Index
-
-- O-Seok
-- hyeongsun
 
 ### O-Seok
 
 ## Hello I'm JOY
-
-
 im joy!!
 im python developer~~!!
-# visitor
-
-## Index
-
- - bunnycast
-
-### bunnycast
-
-- jamie Cheon
 
 ### JamieC
 
+### bunnycast
 bunnycast is awesome gopher. and also oggd at python.
-
 - blog : https://bunnycast.github.io/
  747cac02dc9b1dd20d262078a20cbf2ef9a5d2bb
 
-
 ## comingsoon
 -juheoung
-
-
 https://comingsoon941019.github.io/
 <<<<<<< HEAD
  HEAD
@@ -67,7 +85,10 @@ https://comingsoon941019.github.io/
 >>>>>>> 747cac02dc9b1dd20d262078a20cbf2ef9a5d2bb
 =
 
-
 ### juheoung
 -blog : https://juheoung.github.io/
+<<<<<<< HEAD
 >>>>>>> 2b8bd9407039b85c606fc86b6690673a9453a6d6
+=======
+
+>>>>>>> 6d90c2a6ae2eb680da6bd53efcc4805771f394f2
