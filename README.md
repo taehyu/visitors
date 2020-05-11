@@ -1,12 +1,8 @@
 
 # visitors
 
-Ko eun kyung
-
-
-# visitor
-
 ## Index
+
 - O-Seok
 - hyeongsun
 
@@ -24,9 +20,11 @@ O-Seok is awesome !!!!! lol :)
 
 ## comingsoon
 
-### hyeongsun
+- jamie Cheon
 
-https://comingsoon941019.github.io/
+
+### JamieC
+
 
 
 
