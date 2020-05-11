@@ -1,8 +1,7 @@
-
+# mina
 # visitors
+sanghee
 
-<<<<<<< HEAD
-<
 ##Git에서 경험하는 천국과 지옥
 1.천국
  -언제 어디서나
@@ -20,11 +19,15 @@
 
 ### O-Seok
 
-O-Seok is awesome !!!!! lol :)
+## Hello I'm JOY
 
-- blog: https://O-Seok.github.io
+
+im joy!!
+im python developer~~!!
+# visitor
 
 ## Index
+
  - bunnycast
 
 ### bunnycast
@@ -39,8 +42,11 @@ bunnycast is awesome gopher. and also oggd at python.
 
 
 ## comingsoon
+-juheoung
 
-### hyeongsun
 
 https://comingsoon941019.github.io/
 
+
+### juheoung
+-blog : https://juheoung.github.io/
