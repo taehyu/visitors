@@ -1,1 +1,16 @@
 # mina
+# visitors
+sanghee
+
+## Hello I'm JOY
+
+im joy!!
+im python developer~~!!
+# visitor
+
+## Index
+
+-juheoung
+
+### juheoung
+-blog : https://juheoung.github.io/
