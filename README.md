@@ -2,11 +2,13 @@
 # visitors
 
 ## Index
+
 - O-Seok
 - hyeongsun
 - Ko eun kyung
 - hsw0905
 - EK
+- jamie Cheon
 
 ### EK
 hello
@@ -18,6 +20,7 @@ O-Seok is awesome !!!!! lol :)
 
 ### hyeongsun
 https://comingsoon941019.github.io/
+### JamieC
 
 ### hsw0905
 Hello World from hsw0905 to README
