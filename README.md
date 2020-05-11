@@ -1,12 +1,8 @@
 
 # visitors
 
-Ko eun kyung
-
-
-# visitor
-
 ## Index
+<<<<<<< HEAD
 - O-Seok
 - hyeongsun
 
@@ -16,11 +12,14 @@ O-Seok is awesome !!!!! lol :)
 
 - blog: https://O-Seok.github.io
 
-<<<<<<< HEAD
 ## Index
  - bunnycast
 
 ### bunnycast
+
+- jamie Cheon
+
+### JamieC
 
 bunnycast is awesome gopher. and also oggd at python.
 
